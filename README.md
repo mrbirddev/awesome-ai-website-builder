@@ -4,7 +4,7 @@
 
 No code edit
 
-Real backend
+Deployment ( pricing & self-hostable )
 
 Tech stack
 
