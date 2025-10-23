@@ -1,5 +1,12 @@
 # awesome-ai-website-builder
 
+## Columns
+
+No code edit
+
+Real backend
+
+Tech stack
 
 
 ## Generates code project (React.js) and let AI modifies it.
